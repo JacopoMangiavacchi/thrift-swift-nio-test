@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "Thrift",
+        "repositoryURL": "https://github.com/apocolipse/Thrift-Swift.git",
+        "state": {
+          "branch": null,
+          "revision": "3ac96570a897e0733d4b0c40a85fed02043efd93",
+          "version": "1.0.8"
+        }
+      },
+      {
         "package": "swift-nio",
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
@@ -20,21 +29,12 @@
         }
       },
       {
-        "package": "Thrift",
-        "repositoryURL": "https://github.com/JacopoMangiavacchi/Thrift-Swift.git",
-        "state": {
-          "branch": null,
-          "revision": "f3176f6d6dc87f16cd963710235f3b7341c64f21",
-          "version": "1.0.9"
-        }
-      },
-      {
         "package": "thrift-swift-nio",
         "repositoryURL": "https://github.com/JacopoMangiavacchi/thrift-swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "af313bccad33e837d0ae2e25db135c01112f5096",
-          "version": "0.0.1"
+          "revision": "60717c1148577f08d9bfb5da7371a4ce35b044a5",
+          "version": "0.0.2"
         }
       }
     ]
