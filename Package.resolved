@@ -11,6 +11,15 @@
         }
       },
       {
+        "package": "ThriftSwiftNio",
+        "repositoryURL": "https://github.com/JacopoMangiavacchi/thrift-swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "ab875df1063cfbd24f7a92783b5b3fd9e929bda6",
+          "version": "0.0.4"
+        }
+      },
+      {
         "package": "swift-nio",
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
@@ -26,15 +35,6 @@
           "branch": null,
           "revision": "37760e9a52030bb9011972c5213c3350fa9d41fd",
           "version": "1.0.0"
-        }
-      },
-      {
-        "package": "thrift-swift-nio",
-        "repositoryURL": "https://github.com/JacopoMangiavacchi/thrift-swift-nio.git",
-        "state": {
-          "branch": null,
-          "revision": "60717c1148577f08d9bfb5da7371a4ce35b044a5",
-          "version": "0.0.2"
         }
       }
     ]
