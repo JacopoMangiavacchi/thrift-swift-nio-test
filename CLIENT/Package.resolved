@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Thrift",
+        "repositoryURL": "https://github.com/apocolipse/Thrift-Swift.git",
+        "state": {
+          "branch": null,
+          "revision": "3ac96570a897e0733d4b0c40a85fed02043efd93",
+          "version": "1.0.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
