@@ -3,7 +3,7 @@ Test Thrift Server made with Apple Swift-Nio
 
 Developed with ThriftSwiftNio (https://github.com/JacopoMangiavacchi/thrift-swift-nio)
 
-# Instructions
+# Instructions for installing Swift Thrift library
     brew install thrift
 
     git clone https://github.com/apocolipse/thrift.git
@@ -15,3 +15,6 @@ Developed with ThriftSwiftNio (https://github.com/JacopoMangiavacchi/thrift-swif
     /usr/local/Cellar/thrift/mine/bin/thrift --gen swift Test.thrift
 
     
+# Usage
+
+Use the Swift Server sample projects in the CLIENT and SERVER folders to test both client and server Swift Thrift call
