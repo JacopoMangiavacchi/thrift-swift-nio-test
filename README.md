@@ -1,5 +1,7 @@
 # thrift-swift-nio-test
-Test Thrift Server made with Thrift-Swift-Nio
+Test Thrift Server made with Apple Swift-Nio
+
+Developed with ThriftSwiftNio (https://github.com/JacopoMangiavacchi/thrift-swift-nio)
 
 # Instructions
     brew install thrift
