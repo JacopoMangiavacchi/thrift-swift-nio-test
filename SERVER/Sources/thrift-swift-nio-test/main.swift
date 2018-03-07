@@ -33,7 +33,7 @@ class TestProcessor : Processor {
 
 let processor = TestProcessor()
 
-let server = Server(host: "::1", port: 8888, with: processor, inProtocolType: TBinaryProtocol.self, outProtocolType: TBinaryProtocol.self)
+let server = Server(host: "::1", port: 9090, with: processor, inProtocolType: TBinaryProtocol.self, outProtocolType: TBinaryProtocol.self)
 
 server.run()
 
